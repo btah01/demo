@@ -8,7 +8,7 @@ def multiply(x,y):
     return x*y
 #local
 def divide(x,y):
-    return x/y
+    return x+y
 #sqa    
 def square(x):
     return x*x
